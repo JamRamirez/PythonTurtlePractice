@@ -49,6 +49,7 @@ def draw_spirograph(size_of_gap):
 # drawing_shapes()
 # rand_walk()
 
+
 draw_spirograph(5)
 screen = Screen()
 screen.exitonclick()
